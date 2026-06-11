@@ -1,6 +1,6 @@
 # README.md
 - Upload of Gubs card deck png files that contain all game cards.
-# imvrba - 06/10/2026
+- imvrba - 06/10/2026
 
 /images
 - Contains every png file for replicating deck.
